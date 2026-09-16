@@ -27,7 +27,7 @@ $SUDO apt-get install -y \
     swig python3-setuptools mono-mcs cli-common-dev
 
 pushd /tmp
-git clone https://github.com/analogdevicesinc/libm2k.git
+git clone https://github.com/NicuS03/libm2k.git
 cd libm2k
 
 # Extract libm2k version from its CMakeLists.txt
