@@ -28,6 +28,7 @@ $SUDO apt-get install -y \
 
 pushd /tmp
 git clone https://github.com/NicuS03/libm2k.git
+git checkout my-new-branch
 cd libm2k
 
 # Extract libm2k version from its CMakeLists.txt
